@@ -33,5 +33,3 @@ Este repositorio contiene un archivo básico de TypeScript (`index.ts`) que cubr
     ```bash
     node index.js
     ```
-
-Este es un ejemplo básico para que puedas entender los fundamentos de TypeScript. Para más información, consulta la [documentación oficial de TypeScript](https://www.typescriptlang.org/docs/).
